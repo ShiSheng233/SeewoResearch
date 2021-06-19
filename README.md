@@ -14,6 +14,16 @@
 
 QwQ
 
+由于咱**很菜**，所得出的结论很可能出现错误，若您有发现请发issue提出来
+
+## Credit
+
+~~已经和将来会引用如下仓库~~
+
+感谢各位作者的付出
+
+[SeewoAssistantPasswordRecovery - ezrameow](https://github.com/ezrameow/SeewoAssistantPasswordRecovery)
+
 ---
 
 本项目采用 GNU General Public License v3.0 开源许可
