@@ -43,5 +43,5 @@
     *大概是* 希沃管家内建的网页过滤模块  
     安装目录下有由开发者留下的自签名CA证书与私钥，*多半是* 用于解密HTTPS流量  
     ~~同目录下还有个 "ESEDatabaseView.exe"~~
-  - SeewoKeLiteLady
+  - SeewoKeLiteLady  
     **待补充**
