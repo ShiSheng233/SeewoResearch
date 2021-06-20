@@ -126,4 +126,4 @@ Nmap done: 1 IP address (1 host up) scanned in 1292.62 seconds
            Raw packets sent: 2434 (111.414KB) | Rcvd: 3224 (215.055KB)
 ```
 
-![Zenmap Scan Result](img\ZenmapResult.png)
+![Zenmap Scan Result](img/ZenmapResult.png)
