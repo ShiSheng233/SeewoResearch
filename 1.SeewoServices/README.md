@@ -1,6 +1,6 @@
 # SeewoServices
 
-## [SeewoServiceAssitant - 希沃管家]()
+## [SeewoServiceAssitant - 希沃管家](SeewoServiceAssitant.md)
 
 大部分功能属于云控范围
 
